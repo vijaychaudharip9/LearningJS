@@ -15,4 +15,4 @@ console.log(typeof emailAddress);
 console.log(typeof fName);
 
 
-//fName= "Vijay Chaudhari2"; const variables cannot be reassigned, so the above line will throw an error if uncommented...
+//fName= "Vijay Chaudhari2"; const variables cannot be reassigned, so the above line will throw an error if uncommented.
