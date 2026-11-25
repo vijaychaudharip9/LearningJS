@@ -8,11 +8,13 @@ let emailAddress = "mark@yajoo.com"; // let variables can be reassigned, so the 
 const fName= "Vijay Chaudhari"; // const variables cannot be reassigned, so the above line will throw an error if uncommented.clr
 console.log(emailAddress);
 console.log(fName);
-emailAddress = "vijay@gmail.com";
+emailAddress = "vijaychaudhari@gmail.com";
 console.log(emailAddress);
 
 console.log(typeof emailAddress);
 console.log(typeof fName);
+console.log(typeof emailAddress);
 
 
-//fName= "Vijay Chaudhari2"; const variables cannot be reassigned, so the above line will throw an error if uncommented.
+
+//fName= "Vijay Chaudhari2"; const variables cannot be reassigned, so the above line will throw an error if uncommented.ghsdjhbdiaufdb
